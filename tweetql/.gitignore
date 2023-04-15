@@ -1,0 +1,12 @@
+# node_modules
+node_modules
+
+# Setting
+.eslintignore
+.eslintrc.js
+.eslintrc.json
+.prettierignore
+.prettierrc.json
+
+# IntelliJ project files
+.idea
